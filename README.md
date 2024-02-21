@@ -2,7 +2,7 @@
 First website 
 
 ## My Favorite Class
+![alt text](image.jpg)
 
-![alt text](Screenshot 2024-02-21 143054.jpg)
 
 
